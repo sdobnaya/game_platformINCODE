@@ -6,7 +6,7 @@ In this repository you can find a web game. IN CODE is its name. It's written in
 
 1.  Clone the repo:
 
-        git clone https://github.com/christopher4lis/canvas-boilerplate.git
+        git clone https://github.com/sdobnaya/platformGame.git
 
 2.  Install dependencies using:
 
