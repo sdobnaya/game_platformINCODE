@@ -1,12 +1,14 @@
-Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
+## "IN CODE" platform game (JS/Canvas/OOP)
 
-## Getting Started
+
+Hello, stranger. 
+In this repository you can find a web game. IN CODE is its name. It's written in JS in the OOP paradigm and is rendered on canvas. To run the game you need to do the following:
 
 1.  Clone the repo:
 
         git clone https://github.com/christopher4lis/canvas-boilerplate.git
 
-2.  Install dependencies:
+2.  Install dependencies using:
 
         yarn
 
@@ -19,3 +21,5 @@ Canvas Boilerplate is the go-to solution for quickly creating modern canvas piec
         npm start
 
 Your canvas piece should open up automatically at http://localhost:3000 and you should see 'HTML CANVAS BOILERPLATE' on hover.
+
+Enjoy :)
